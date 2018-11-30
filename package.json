@@ -1,0 +1,13 @@
+{
+    "name": "froggyfrog-membership",
+    "author": "omc",
+    "description": "a membership system",
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-jshint": "*",
+        "grunt-contrib-watch": "*",
+        "should": "^13.2.3",
+        "mocha" : "~5.2.0"
+    }
+}

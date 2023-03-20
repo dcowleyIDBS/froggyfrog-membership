@@ -10,6 +10,8 @@
         "grunt-contrib-watch": "*",
         "should": "^13.2.3",
         "mocha": "~5.2.0",
-        "express": "~4.16.4"
+        "express": "~4.16.4",
+        "minimist": ">=1.2.6",
+        "getobject": ">=1.0.0"
     }
 }
